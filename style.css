@@ -1,0 +1,23 @@
+
+
+.container {
+    display: flex;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 10px;
+    border-spacing: 10px;
+    font-size: 30px;
+    text-align: center;
+    color: black;
+    font-family: "Roboto";
+    background-color: #B9AB9D;
+
+
+}
+
+.container td {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    background-color: #CCC0B2;
+}
